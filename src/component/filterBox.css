@@ -1,0 +1,31 @@
+.filterBox {
+    position: absolute;
+    width: 228px;
+    height: 275px;
+    left: 41px;
+    top: 43px;
+
+    background: #131313;
+    border-radius: 15px;
+}
+.filterLine {
+    position: absolute;
+    width: 158px;
+    height: 0px;
+    left: 71px;
+    top: 102px;
+
+    border: 1px solid #CBCBCB;
+}
+
+.box{
+    position: absolute;
+    width: 168.45px;
+    height: 37.5px;
+    left: 66px;
+    top: 238px;
+
+    background: #232323;
+    border-radius: 4.68775px;
+}
+

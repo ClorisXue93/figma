@@ -1,0 +1,16 @@
+.inbox{
+    position: absolute;
+    width: 144px;
+    height: 22px;
+    left: 79px;
+    top: 146px;
+
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+}
